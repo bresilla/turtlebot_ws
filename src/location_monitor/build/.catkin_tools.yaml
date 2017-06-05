@@ -1,0 +1,6 @@
+devel_space: /home/trim/CODE/ROBO/part_2/turtlebot_ws/src/location_monitor/devel
+install: false
+install_space: /home/trim/CODE/ROBO/part_2/turtlebot_ws/src/location_monitor/install
+profile: default
+source_space: /home/trim/CODE/ROBO/part_2/turtlebot_ws/src/location_monitor/src
+workspace: /home/trim/CODE/ROBO/part_2/turtlebot_ws/src/location_monitor

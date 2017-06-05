@@ -1,0 +1,2 @@
+location_monitor
+-DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/trim/CODE/ROBO/part_2/turtlebot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/trim/CODE/ROBO/part_2/turtlebot_ws/install -G Unix Makefiles
